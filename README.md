@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-**AndroidManifest.xml**
+**AndroidManifest.xml中添加了**
 ```
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
