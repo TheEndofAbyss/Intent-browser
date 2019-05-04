@@ -55,15 +55,11 @@ public class MainActivity extends AppCompatActivity {
 
 截图和Intent一样
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190504131350147.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkwMTY5OA==,size_16,color_FFFFFF,t_70)
+![image](https://github.com/TheEndofAbyss/Intent-browser/blob/master/image/5.1.png)
 
+![image](https://github.com/TheEndofAbyss/Intent-browser/blob/master/image/5.2.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190504131416997.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkwMTY5OA==,size_16,color_FFFFFF,t_70)
-
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190504131439196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkwMTY5OA==,size_16,color_FFFFFF,t_70)
-
+![image](https://github.com/TheEndofAbyss/Intent-browser/blob/master/image/5.3.png)
 
 
 
